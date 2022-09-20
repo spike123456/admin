@@ -668,8 +668,6 @@ firebase/firestore
 
 firebase/remote-config
 
-firebase/storage
-
 font-awesome
 (OFL-1.1 AND MIT)
 
